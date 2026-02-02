@@ -1,7 +1,7 @@
 # Daniel Pereira Gonçalves de Oliveira
 
 ## 👨‍💻 Sobre mim
-Olá! Meu nome é **Daniel Pereira Gonçalves de Oliveira** e sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Positivo. Sou entusiasta da tecnologia, sempre em busca de novos conhecimentos e aprendizados.
+Olá! Meu nome é **Daniel Pereira Gonçalves de Oliveira** e sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Positivo. Sempre em busca de novos conhecimentos e aprendizados :).
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxnielpg&show_icons=true&theme=radical" alt="Estatísticas de Daniel Pereira"/>
